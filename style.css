@@ -33,8 +33,8 @@ i{
 }
 i:hover{
     transition: 0s;
-    color: rgba(152, 245, 46, 0.897);
-    text-shadow: 0 0 120px rgba(152, 245, 46, 0.897);
+    color:rgba(48, 232, 245, 0.897);
+    text-shadow: 0 0 120px rgba(48, 232, 245, 0.897);
 }
 section .row div {
     font-size: 1em;
